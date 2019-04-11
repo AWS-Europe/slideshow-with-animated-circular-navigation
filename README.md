@@ -9,7 +9,7 @@ A fullscreen, responsive slideshow with animated circular navigation. Depending 
 [Demo](https://coidea.website/demos/slideshow-with-animated-circular-navigation)
 
 ## Credits
-- [TweenMax](https://greensock.com/tweenmax), [TextPlugin](https://cdnjs.cloudflare.com/ajax/libs/gsap/2.1.2/plugins/TextPlugin.min.js) & [CSSPlugin](https://greensock.com/CSSPlugin) by Greensock
+- [TweenMax](https://greensock.com/tweenmax), [TextPlugin](https://greensock.com/TextPlugin) & [CSSPlugin](https://greensock.com/CSSPlugin) by Greensock
 - [imagesLoaded](https://imagesloaded.desandro.com/) by David DeSandro
 - [Images](https://unsplash.com/) by Unsplash.com
 - Fonts [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) & [Roboto](https://fonts.google.com/specimen/Roboto) by Google Fonts
